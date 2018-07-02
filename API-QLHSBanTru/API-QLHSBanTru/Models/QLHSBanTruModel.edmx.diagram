@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="2dc33f36a02c45f49756f0005a56e829" Name="Diagram1">
+        <EntityTypeShape EntityType="QLHSBanTruModel.Class" Width="1.5" PointX="6" PointY="14.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.Contract" Width="1.5" PointX="8.25" PointY="25.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.Course" Width="1.5" PointX="1.5" PointY="10.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.CourseTask" Width="1.5" PointX="11.25" PointY="21.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.DailyMenu" Width="1.5" PointX="11" PointY="44.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.DailyMenuDetail" Width="1.5" PointX="13.25" PointY="40.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.DailyTask" Width="1.5" PointX="11.25" PointY="29.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.Degree" Width="1.5" PointX="0.75" PointY="22.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.Department" Width="1.5" PointX="6" PointY="31.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.Dish" Width="1.5" PointX="11" PointY="41" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.DishDetail" Width="1.5" PointX="13.25" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.Employee" Width="1.5" PointX="3" PointY="23.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.Employee_Class" Width="1.5" PointX="8.25" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.Employee_Function" Width="1.5" PointX="8.25" PointY="29.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.EthnicGroup" Width="1.5" PointX="0.75" PointY="29.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.FoodGroup" Width="1.5" PointX="0.75" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.Function" Width="1.5" PointX="3" PointY="18.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.FunctionGroup" Width="1.5" PointX="0.75" PointY="18.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.Grade" Width="1.5" PointX="3.75" PointY="14.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.HealthExamination" Width="1.5" PointX="12" PointY="35.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.HealthExaminationDetail" Width="1.5" PointX="14.25" PointY="24.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.HealthProblem" Width="1.5" PointX="11.25" PointY="25.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.History" Width="1.5" PointX="5.25" PointY="19.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.Ingredient" Width="1.5" PointX="11" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.IngredientType" Width="1.5" PointX="8.75" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.Lesson" Width="1.5" PointX="6" PointY="6.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.Location" Width="1.5" PointX="0.75" PointY="25.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.Meal" Width="1.5" PointX="11" PointY="47.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.Order" Width="1.5" PointX="14" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.OrderDetail" Width="1.5" PointX="16.25" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.PhysicalMonthlyTask" Width="1.5" PointX="9" PointY="33" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.Position" Width="1.5" PointX="6" PointY="34.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.Preferred" Width="1.5" PointX="3.75" PointY="31.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.Receivable" Width="1.5" PointX="9.75" PointY="12" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.ReceivableDetail" Width="1.5" PointX="12" PointY="13.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.ReceivableDetail_Preferred" Width="1.5" PointX="17.25" PointY="22.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.ReceivableDetail_Student" Width="1.5" PointX="14.25" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.Religion" Width="1.5" PointX="0.75" PointY="32.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.Revenue" Width="1.5" PointX="9.75" PointY="15.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.Semester" Width="1.5" PointX="1.5" PointY="14.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.Student" Width="1.5" PointX="6" PointY="23.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.Student_Class" Width="1.5" PointX="14.25" PointY="30.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.Student_Lesson" Width="1.5" PointX="8.25" PointY="18.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.StudentParent" Width="1.5" PointX="8.25" PointY="48.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.Topic" Width="1.5" PointX="3.75" PointY="6.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.TopicType" Width="1.5" PointX="1.5" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.WeeklyMenu" Width="1.5" PointX="8.75" PointY="44.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHSBanTruModel.WeeklyTask" Width="1.5" PointX="9" PointY="36.5" IsExpanded="true" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_Class_Grade" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_Employee_Class_Class" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_Student_Class_Class" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_Contract_Department" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_Contract_Employee" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_Contract_Position" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_CourseTask_Course" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_Semester_Course" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_CourseTask_Student" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_DailyMenu_WeeklyMenu" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_DailyMenuDetail_DailyMenu" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_DailyMenuDetail_Dish" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_DailyMenuDetail_Meal" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_DailyTask_PhysicalMonthlyTask" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_DailyTask_Student" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_DailyTask_WeeklyTask" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_Employee_Degree" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_DishDetail_Dish" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_DishDetail_Ingredient" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_Employee_Class_Employee" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_Employee_EthnicGroup" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_Employee_Function_Employee" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_Employee_Location" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_Employee_Religion" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_HealthProblem_Employee" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_History_Employee" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_Employee_Function_Function" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_Function_FunctionGroup" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_History_Function" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_Grade_Semester" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_HealthExaminationDetail_HealthExamination" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_HealthExaminationDetail_Student" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_HealthProblem_Student" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_Ingredient_IngredientType" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_OrderDetail_Ingredient" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_Lesson_Topic" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_Student_Lesson_Lesson" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_Student_Location" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_OrderDetail_Order" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_ReceivableDetail_Preferred_Preferred" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_Student_Preferred" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_ReceivableDetail_Receivable" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_ReceivableDetail_Preferred_ReceivableDetail" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_ReceivableDetail_Revenue" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_ReceivableDetail_Student_ReceivableDetail" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_Receivable_Student_Student" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_Student_Class_Student" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_Student_Lesson_Student" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_StudentParents_Student" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHSBanTruModel.FK_Topic_TopicType" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
